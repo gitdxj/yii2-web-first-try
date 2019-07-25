@@ -1,0 +1,1 @@
+mysql -uroot -p -e "set password for root@localhost = password('root'); create database nku; use nku; source ./htdocs/nku100/data/install.sql;"
