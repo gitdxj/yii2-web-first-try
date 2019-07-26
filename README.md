@@ -5,7 +5,7 @@
 ![avatar](/doc/frontpage.PNG)
 
 ###  后端界面
-![avatar](/doc/backpage.png)
+![avatar](/doc/backpage.PNG)
 在后端界面中可以查看个人和团队作业
 
 ## 如何部署
