@@ -15,3 +15,6 @@
 将xampp/htdocs/nku100/setup.bat拖入shell中执行  
 浏览器中输入localhost/nku100/frontend/web查看前台
 输入localhost/nku100/backend/web查看后台
+
+# 致谢
+感谢我的队友把全部任务都推给了我，让我比较详尽地了解了这个框架。
